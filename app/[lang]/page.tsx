@@ -611,7 +611,7 @@ className="text-sm md:text-base tracking-[0.35em] uppercase font-semibold mb-3 f
 
             {/* KATEGORİ */}
             <div className="mb-3 text-xs opacity-60">
-              {item.target === "erkek" ? "Erkek Hizmetleri" : "Kadın Hizmetleri"}
+              {item.target === "erkek" ? "" : ""}
             </div>
 
             {/* BAŞLIK */}
